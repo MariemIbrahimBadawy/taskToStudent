@@ -1,0 +1,10 @@
+body{ 
+    margin: 0;
+    background-color: darkmagenta;
+}
+main{ 
+    width: 70%;
+    margin:  100px auto;
+    background-color: rgb(13, 12, 12);
+  
+}

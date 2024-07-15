@@ -1,0 +1,42 @@
+form{ 
+  color: white;
+  text-align: center;
+  width: 90%;
+  margin: auto;
+
+}
+h2{ 
+    text-align: center;
+    padding: 30px 0;
+}
+input , textarea , button{ 
+    border-radius: 30px;
+}
+input{
+    outline:none;
+}
+input[type=email]{ 
+    width: 80%;
+    margin: 50px 0;
+    padding: 10px 0;
+}
+input[type=text]{ 
+    padding: 10px 0;
+}
+.label-textarea{ float: left;
+}
+textarea{ 
+     width: 100%;
+     height: 100PX;
+     border: 1px solid grey;
+     outline: none;
+     margin: 9px 0;
+}
+button{ 
+    padding: 20px;
+    color: white;
+    background-color: tomato;
+    cursor: pointer;
+    margin: 40px ;
+    border: crimson;
+}
